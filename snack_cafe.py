@@ -68,7 +68,6 @@ def order():
         else:
             print("We are very sorry if the reason for changing your mind about ordering from our restaurant is from our side")
         
-        
 #main
 intro()
 menue()
